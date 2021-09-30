@@ -1,1 +1,1 @@
-https://github.com/buntychakraborty/gitoogle
+https://gitoogle.herokuapp.com/user/buntychakraborty
